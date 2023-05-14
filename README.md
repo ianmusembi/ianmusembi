@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning more about designing larger projects using c++ or python and full stack development <br>
 
-    And learning React is really cool. <br>
+ &emsp; &nbsp; And learning React is really cool. <br>
 
 💬 Feel free to ask me about anything web development, c++, python or footy⚽ <br>
 
