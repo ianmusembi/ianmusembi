@@ -1,9 +1,11 @@
 # 💫 Ian's intro:
-🔭 I’m currently working my python and web development projects.<br>
+🔭 I’m currently working my python, C++ and web development projects.<br>
 
 👯 I’m looking to collaborate on python, ruby servers and c++ programs <br>
 
 🌱 I’m currently learning more about designing larger projects using c++ or python and full stack development <br>
+
+    And learning React is really cool. <br>
 
 💬 Feel free to ask me about anything web development, c++, python or footy⚽ <br>
 
