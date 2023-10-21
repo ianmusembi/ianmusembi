@@ -1,5 +1,5 @@
 # 💫 Ian's intro:
-🔭 I’m currently working my python, C++ and web development projects.<br>
+🔭 I’m currently working on my python, C++ and web development projects.<br>
 
 👯 I’m looking to collaborate on python, ruby servers and c++ programs <br>
 
